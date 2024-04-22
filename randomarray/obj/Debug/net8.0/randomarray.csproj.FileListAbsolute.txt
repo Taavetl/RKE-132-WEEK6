@@ -1,0 +1,14 @@
+C:\Users\Taavet\source\repos\Week6\randomarray\bin\Debug\net8.0\randomarray.exe
+C:\Users\Taavet\source\repos\Week6\randomarray\bin\Debug\net8.0\randomarray.deps.json
+C:\Users\Taavet\source\repos\Week6\randomarray\bin\Debug\net8.0\randomarray.runtimeconfig.json
+C:\Users\Taavet\source\repos\Week6\randomarray\bin\Debug\net8.0\randomarray.dll
+C:\Users\Taavet\source\repos\Week6\randomarray\bin\Debug\net8.0\randomarray.pdb
+C:\Users\Taavet\source\repos\Week6\randomarray\obj\Debug\net8.0\randomarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taavet\source\repos\Week6\randomarray\obj\Debug\net8.0\randomarray.AssemblyInfoInputs.cache
+C:\Users\Taavet\source\repos\Week6\randomarray\obj\Debug\net8.0\randomarray.AssemblyInfo.cs
+C:\Users\Taavet\source\repos\Week6\randomarray\obj\Debug\net8.0\randomarray.csproj.CoreCompileInputs.cache
+C:\Users\Taavet\source\repos\Week6\randomarray\obj\Debug\net8.0\randomarray.dll
+C:\Users\Taavet\source\repos\Week6\randomarray\obj\Debug\net8.0\refint\randomarray.dll
+C:\Users\Taavet\source\repos\Week6\randomarray\obj\Debug\net8.0\randomarray.pdb
+C:\Users\Taavet\source\repos\Week6\randomarray\obj\Debug\net8.0\randomarray.genruntimeconfig.cache
+C:\Users\Taavet\source\repos\Week6\randomarray\obj\Debug\net8.0\ref\randomarray.dll

@@ -1,0 +1,14 @@
+C:\Users\Taavet\source\repos\Week6\numberarrays\bin\Debug\net8.0\numberarrays.exe
+C:\Users\Taavet\source\repos\Week6\numberarrays\bin\Debug\net8.0\numberarrays.deps.json
+C:\Users\Taavet\source\repos\Week6\numberarrays\bin\Debug\net8.0\numberarrays.runtimeconfig.json
+C:\Users\Taavet\source\repos\Week6\numberarrays\bin\Debug\net8.0\numberarrays.dll
+C:\Users\Taavet\source\repos\Week6\numberarrays\bin\Debug\net8.0\numberarrays.pdb
+C:\Users\Taavet\source\repos\Week6\numberarrays\obj\Debug\net8.0\numberarrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taavet\source\repos\Week6\numberarrays\obj\Debug\net8.0\numberarrays.AssemblyInfoInputs.cache
+C:\Users\Taavet\source\repos\Week6\numberarrays\obj\Debug\net8.0\numberarrays.AssemblyInfo.cs
+C:\Users\Taavet\source\repos\Week6\numberarrays\obj\Debug\net8.0\numberarrays.csproj.CoreCompileInputs.cache
+C:\Users\Taavet\source\repos\Week6\numberarrays\obj\Debug\net8.0\numberarrays.dll
+C:\Users\Taavet\source\repos\Week6\numberarrays\obj\Debug\net8.0\refint\numberarrays.dll
+C:\Users\Taavet\source\repos\Week6\numberarrays\obj\Debug\net8.0\numberarrays.pdb
+C:\Users\Taavet\source\repos\Week6\numberarrays\obj\Debug\net8.0\numberarrays.genruntimeconfig.cache
+C:\Users\Taavet\source\repos\Week6\numberarrays\obj\Debug\net8.0\ref\numberarrays.dll
